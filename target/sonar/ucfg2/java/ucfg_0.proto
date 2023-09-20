@@ -1,0 +1,60 @@
+
+)org.example.Main#foo(Ljava/lang/Object;)DY
+OC:/Users/leonardo.pilastri/git/maven-sample/src/main/java/org/example/Main.java ("2*à
+2 (N
+L
+ (
+ijava.lang.Integer"__id*"
+
+__unknown_file (
+""L
+J
+ (
+fjava.lang.Float"__id*"
+
+__unknown_file (
+""M
+K
+	 	(
+sjava.lang.String"__id*"
+
+__unknown_file (
+""*
+4
+5
+6
+1* 
+4	 	(-µ
+≤
+	 	(,
+%2double"1java.lang.Double#parseDouble(Ljava/lang/String;)D*0
+
+__unknown_file ("
+java.lang.Double*3
+
+__unknown_file (
+
+sjava.lang.String*
+1*ë
+5 (&}{
+ (%
+%1double"java.lang.Float#doubleValue()D*2
+
+__unknown_file (
+
+fjava.lang.Float2doubleValue()*
+1*ñ
+6 ((Å
+ ('
+%0double" java.lang.Integer#doubleValue()D*4
+
+__unknown_file (
+
+ijava.lang.Integer2doubleValue()*
+1*!
+1 ("
+ (
+"":!
+ (#
+ojava.lang.ObjectB"
+org.example.MainHP

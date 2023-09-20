@@ -1,0 +1,4 @@
+|
+org.example.Main$
+<init>org.example.Main#<init>()V0
+foo)org.example.Main#foo(Ljava/lang/Object;)Djava.lang.Object
